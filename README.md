@@ -1,3 +1,3 @@
-# Fix Wifi & Proxy
+# Fix MFAC Wifi & Proxy
 
-Download: [Fix Wifi:Proxy.zip](https://github.com/Charlie-McMahon/proxy/files/1978200/Fix.Wifi.Proxy.zip)
+Download: [Fix Wi-Fi:Proxy.zip](https://github.com/Charlie-McMahon/proxy/files/1978218/Fix.Wi-Fi.Proxy.zip)
